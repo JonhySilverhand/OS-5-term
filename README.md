@@ -1,2 +1,2 @@
 # Operation System
-3 course, 5th term
+3rd course, 5th term
